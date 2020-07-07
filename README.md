@@ -1,8 +1,11 @@
 # Endangered
 
-Endangered is an educational web app designed for primary age children. It uses an interactive map to teach children about endangered animals and the threats they face.
+Endangered is an educational web app designed for primary age children. It uses an interactive map to teach children about endangered animals around the world and the threats they face.
 
-This was my first small group project as part of the CodeClan course. The app was built by a team of four using Vue, JS, Express and MongoDB. It allows children to click on a continent to see examples of endangered animals living there. For each animal they are given a fun fact and can answer a multiple choice quiz question. They can choose up to three of their favourite animals and find out what the biggest common threat is to them and what they can do to help.
+A small group project as part of the CodeClan course. The app was built by a team of four using Vue, JS, Express and MongoDB. It allows children to click on a continent to see examples of endangered animals living there. For each animal they are given a fun fact and can answer a multiple choice quiz question. They can choose up to three of their favourite animals and find out what the biggest common threat is to them and what they can do to help.
+
+You can see a brief video overview of the app here:
+https://youtu.be/EaglOE5f7-U
 
 ## Project Brief
 
